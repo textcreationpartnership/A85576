@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Great and glorious victory obtained by the English against the French, upon the coast of Callice; with the dispiersing of the Royal Navie belonging to King Lewis, the taking of the Newfound-land fleet; and the chasing of the King of Scots Vice-Admiral, and his men of war, unto the Fort Royal. With the manner how Captain Foster in the Phœnix, Cap. Benjamin in the Pearl frigat, and Cap. George Crocknel in the Merlin, bare up to them within canon shot of the castle; and the event and success thereof. Likewise, the particulars of a great and lamentable engagement in Scotland, the number of men killed and taken on both sides; and the taking of the field again by both armies.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85576</idno>
+            <idno type="STC">Wing G1652</idno>
+            <idno type="STC">Thomason E805_8</idno>
+            <idno type="STC">ESTC R207379</idno>
+            <idno type="EEBO-CITATION">99866434</idno>
+            <idno type="PROQUEST">99866434</idno>
+            <idno type="VID">167877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167877)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 122:E805[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Great and glorious victory obtained by the English against the French, upon the coast of Callice; with the dispiersing of the Royal Navie belonging to King Lewis, the taking of the Newfound-land fleet; and the chasing of the King of Scots Vice-Admiral, and his men of war, unto the Fort Royal. With the manner how Captain Foster in the Phœnix, Cap. Benjamin in the Pearl frigat, and Cap. George Crocknel in the Merlin, bare up to them within canon shot of the castle; and the event and success thereof. Likewise, the particulars of a great and lamentable engagement in Scotland, the number of men killed and taken on both sides; and the taking of the field again by both armies.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for G. Wharton,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July 21"; the 4 in the date has been crossed out and replaced with a 5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Naval battles --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History, Naval --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167877:1" rendition="simple:additions"/>
+            <p>A great and glorious VJCTORY Obtained By the Engliſh againſt the French, upon the Coaſt of Callice; with the diſpierſing of the Royal N<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vie belonging to King <hi>Lewis,</hi> the taking of the Newfound-land Fleet; and the chaſing of the King of Scots Vice-Admiral, and his Men of War, un<g ref="char:EOLhyphen"/>to the Fort Royal.</p>
+            <p>With the manner how Captain Foſter in the Phaenix, Cap. Benjamin in the Pearl frigat, and Cap. George Grocknel in the Merlin, bare up to them within Canon ſhot of the ca<g ref="char:EOLhyphen"/>ſtle; and the event and ſucceſs thereof.</p>
+            <p>Likewiſe, the particulars of a great and la<g ref="char:EOLhyphen"/>mentable Engagement in Scotland, the num<g ref="char:EOLhyphen"/>ber of men killed and taken on both ſides; and the taking of the field again by both ARMIES.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>G. Wharton,</hi> 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_battles">
+            <pb facs="tcp:167877:2"/>
+            <pb n="3" facs="tcp:167877:2"/>
+            <head>Two great and deſperate Engagements, both by Sea and Land: the firſt be<g ref="char:EOLhyphen"/>tween the Engliſh frigats, commanded by Cap. Foſter Cap. Benjamin, and Ca. George Cracknel, and the K. of Scots men of War, commanded by Vice-ad<g ref="char:EOLhyphen"/>miral Banniſter. &amp;c.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N the 8 of this inſtant July, 1654. divers of the Engliſh Frigats having been upon the Coaſt of Dunkirk, to convoy a fleet of Merchant-men; upon their return to<g ref="char:EOLhyphen"/>wards the Narrow, they eſpyed the King of Scots fleet, unto whom they gave chace; and at laſt com<g ref="char:EOLhyphen"/>within ſhot, ſaluted them with ſeveral broad ſides; Vice-admiral Banniſter being in the Eagle, anſwerd them again; but after a ſharp diſpute, finding the
+<pb n="4" facs="tcp:167877:3"/>Arguments too high to diſpenſe withall from the mouthe of the Engliſh Canon, he tacked about, for Calis, and got under the command of the Roy<g ref="char:EOLhyphen"/>all Fort, where he preſently hung forth a Flag of defiance; which Captain Benjamin Sa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heverel per<g ref="char:EOLhyphen"/>ceiving, attempted with the Eagle to ſtrand him; but the great Canon from the Fort and Blockhou<g ref="char:EOLhyphen"/>ſes played ſo aſt upon him, that he was conſtrained to come off by the Leeward, his deſign proving unfeaſible. However upon their putting forth to the main Ocean, they eſpyed another fleet, which proved French-men, and after 4 or 5 leagues chace, ſank one, and took another, without the loſs of one man. We have alſo taken their Newfound land fleet, and divers ſhips coming from Malaga, which adds far more Tryumphant Victories, when we fought the Royal Navy took their Admiral, and di<g ref="char:EOLhyphen"/>vers others, and totally diſſipated the whole Fleet; which heroick Atchievment, deſerves to be eter<g ref="char:EOLhyphen"/>niz'd, with theſe Lines, in Letters of Gold.</p>
+            <div type="poem">
+               <l>TAke wing my Muſe &amp; mount the aery sky,</l>
+               <l>View winged Bullets how they ſtrangly fly</l>
+               <l>See how the ſwimming Caſtles march, they ſayl,</l>
+               <l>As if their Timber, ah! would never fail.</l>
+               <pb n="5" facs="tcp:167877:3"/>
+               <l> See! how the glorious Lamp doth gaze to ſee</l>
+               <l>Cerulian Waves made, ah! a purple Sea;</l>
+               <l>Hark! how the warlike Trumpets call to fight,</l>
+               <l>And view the Monſieurs ſhip about, as light</l>
+               <l>As fancy ſees them, BEN: doth bravely ſtand,</l>
+               <l>Upon the Poop diſcreetly gives command:</l>
+               <l>Ben: Follows with the Pearl, Foſter is</l>
+               <l>Adding to's Canvaſs, each brave ſhip do'nt miſs,</l>
+               <l>To plow the liquid Ocean, which doth ſwel,</l>
+               <l>Looks big: yet Engliſh ſpirits ne're could ſell</l>
+               <l>To entertain baſe fear; the other run</l>
+               <l>As if they would ſet with the ſupping ſun.</l>
+               <l>Ah! ah! immortal French are fear'd by Death,</l>
+               <l>The winds now give their ſcanted Canvaſs breath.</l>
+               <l>Ply after Engliſh hearts, and fetch from home</l>
+               <l>The haughty French. Let trembling Chriſtendom</l>
+               <l>Hear of your Valours, were I Lucaniz'd,</l>
+               <l>My Pen this Victory had highly priz'd,</l>
+               <l>And made as famous as the Roman wars,</l>
+               <l>But I cannot by inauſpicious ſtars.</l>
+               <l>Though in the fight, we ſaw Gods mighty hand,</l>
+               <l>And find he's great, both on the Sea and Land.</l>
+            </div>
+         </div>
+         <div type="account_of_battle">
+            <pb n="6" facs="tcp:167877:4"/>
+            <head>A Relation of the Fight in Scotland.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>COl Brayn with a conſiderable party is come into the North; <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed divers o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>her Regiments are expected, Since which time, we hear from the Camp that Colonel Morgan had ſight of Drum<g ref="char:EOLhyphen"/>mond, Montroſs, Dephop, and the Lord Ervin, who had raiſed <hi>2000</hi> Levies; but upon his advance, and Major Knight, with <hi>400</hi> horſe, and <hi>200</hi> foot, they couragiouſly faec'd about, and put the Engliſh to the Run, by our perſuing of them. We killed one Cap. <hi>Good<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ellow</hi> (an Engliſh man) and ſome others, took ten priſoners, and <hi>60</hi> horſe, with abundance of Cloakbags, meat dreſt and undreſt, many Cowes, and other proviſions, And ſince that we ſent <hi>40</hi> nakad men to ſwim over with their ſwords, to an Iſland that ſtood out againſt them, which they took, and ſome ſtore of proviſions laid in for Middleton, with ſome plate, and other rich goods. The Marq. of Argyle has raiſed all from <hi>16</hi> to <hi>60</hi> throughout his Territories, and is reſolved to ſight either to Death or <g ref="char:V">Ʋ</g>ictory againſt the Tories.</p>
+               <closer>
+                  <dateline>St. Johnſtons <date>July 6. 1654.</date>
+                  </dateline>
+               </closer>
+               <postscript>
+                  <p>From <hi>Scotland</hi> further thus: The Miniſters ſtill preach up young Charles their King, and pray for him as <hi>Gods Vice ge<g ref="char:EOLhyphen"/>rent</hi> on earth. Their forces are endeavouring a conjunction, and the North Countrey are generally diſaffected, murthering the Engliſh privately; but a party coming from Ayr, commanded by Quartermaſter Stevenſon, being purſued by a ſtrong party of the enemy, faced about, drew up and ingaged them; and after a very ſharp and deſperate diſpute, took one Captain, a Cornet, and 11
+<pb n="7" facs="tcp:167877:4"/>others, killed one Capt. Armſtrong, divers others, and wounded many; but this Atchievment was not obtained without ſome blood, noſes, and broken pates; for one of our men was cut in the head, another had his noſe ſlit, and ſome others were let blood in their arms, ond other places.</p>
+               </postscript>
+            </div>
+            <div type="part">
+               <p>But that which appeares more dreadful unto us, is, the enemies falling upon the a<g ref="char:EOLhyphen"/>foreſaid Col. Bryans men, the manner thus: A party of 120 men being drawn out to get off boats from the enemy; they being too eager of their prey, and withal careleſs, and not keeping together, nor obſerving command, Sir George Monro lying in Ambuſcado, fel upon them, and kiled four<g ref="char:EOLhyphen"/>ſcore galant men, where of ſome Officers, &amp; quite fruſtrated us of our deſign. Yet other Letters ſay to the contrary, and that the Engliſh hath given the Scots a defeat. The truth whereof ſeemes too dubious at pre<g ref="char:EOLhyphen"/>ſent, by reaſon, that the enemy are numer<g ref="char:EOLhyphen"/>ous, and have the diſadvantage amongſt the
+<pb n="8" facs="tcp:167877:5"/>Hils, the Weather being ſo extream cold, that we are ſcarce able to indure the field; beſides, we have a perfect Winter in this cold Angle of the World, having not any thing but nipping Froſts, and tempeſtuous ſtorms, ſo that we are expoſed to abun<g ref="char:EOLhyphen"/>dance of danger and difficulties, and invol<g ref="char:EOLhyphen"/>ved in a Labyrinth of troubles; but We doubt not, but that Hand of Providence which hath hitherto preſerved Us, wil in the greateſt of our ſtreights, ſtil preſerve &amp; protect Us, and in the end crown us with thoſe trpumphant ſignals, whereby God may be glorified, the Truth maintained, and the juſt Laws and Liberties of the peo<g ref="char:EOLhyphen"/>ple inviolably kept and preſerved.</p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
